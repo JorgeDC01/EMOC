@@ -27,19 +27,20 @@ An example of problem's Pareto fronts are the following ones:
 
 #### ZDT1
 
-
+<img src="Multi-objective optimization/example_images/output_ZDT1.png" alt="Pareto Front Example" width="500"/>
 
 #### ZDT3
 
-
+<img src="Multi-objective optimization/example_images/output_zdt3.png" alt="Pareto Front Example" width="500"/>
 
 #### MW7
 
-
+<img src="Multi-objective optimization/example_images/output_mw7.png" alt="Pareto Front Example" width="500"/>
 
 #### MW14
 
-
+<img src="Multi-objective optimization/example_images/output_mw14.png" alt="Pareto Front Example" width="500"/>
 
 #### TSP-MultiObjective
 
+<img src="Multi-objective optimization/example_images/output_tsp-mo.png" alt="Pareto Front Example" width="500"/>
