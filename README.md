@@ -1,4 +1,5 @@
-# BIOCOMP-Project
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=1000&color=6962B6&vCenter=true&width=431&height=30&lines=AI%3A+EMOC%3A+Evolutionary+MultiObjective+Computing%F0%9F%92%BB)](https://git.io/typing-svg)
+
 
 Evolutionary Algorithms Project
 This project focuses on developing and implementing evolutionary algorithms to solve optimization problems. The work is divided into two main parts:
