@@ -2,6 +2,7 @@
 
 
 Evolutionary Algorithms Project
+
 This project focuses on developing and implementing evolutionary algorithms to solve optimization problems. The work is divided into two main parts:
 
 1. Single-Objective Optimization
